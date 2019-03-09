@@ -1,3 +1,7 @@
+Author : Debabrata Karmakar 
+    debo.karmakar@gmail.com
+    Creating predictive model for stock data
+
 import csv
 import numpy as np
 from sklearn.svm import SVR
